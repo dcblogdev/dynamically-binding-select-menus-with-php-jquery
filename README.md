@@ -1,4 +1,4 @@
-dynamically-binding-select-menus-with-php-jquery
-================================================
+Dynamically binding select menus with PHP & jQuery
+=============
 
-files to accompany tutorial
+These files acompany the tutorial: [Dynamically binding select menus with PHP & jQuery](http://daveismyname.com/dynamically-binding-select-menus-with-php-jquery-bp)
